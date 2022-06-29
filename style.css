@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2018/06/21/13/57/clouds-3488632__340.jpg');
+    background-size: cover;
+    height:100vh;
+}
+select{
+    width:250px;
+    margin: 20px 45vw;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+div{
+    max-width:600px;
+    position: absolute;
+    left: 37%;
+    font-size: 40px;
+    font-family: arial;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    background-color: #fff1;
+    text-align:center
+}
